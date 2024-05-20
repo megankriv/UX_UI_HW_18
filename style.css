@@ -55,17 +55,25 @@
       ;
   }
   .topImg {
-      grid-area: topImg;
-      background-color: white;
-  }
+    grid-area: topImg;
+    background-color: white;
+}
+img.mindpic {
+    width: 350px;
+    height: auto;
+}
   .MindEase {
       grid-area: MindEase;
       background-color: blanchedalmond;
   }
   .middleImg {
-      grid-area: middleImg;
-      background-color:rgb(189, 186, 191);
-  }
+    grid-area: middleImg;
+    background-color:white;
+}
+img.USDApic {
+    width: 300px;
+    height: auto;
+}
   .USDAbox {
       grid-area: USDAbox;
       background-color: blanchedalmond;
