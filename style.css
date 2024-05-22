@@ -11,16 +11,12 @@ body {
     margin: auto;
 }
 
-h1 {
+.content{
     display: flex;
     justify-content: center;
     text-align: center;
 }
-p {
-    display: flex;
-    text-align: center;
-    margin: auto;
-}
+
 .mySkills {
     text-align: center;
   }
