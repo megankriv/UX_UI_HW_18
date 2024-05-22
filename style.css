@@ -6,6 +6,7 @@ body {
     display: inline-block;
     vertical-align: center;
     padding: 12px;
+    margin: auto;
 }
 .mySkills {
     text-align: center;
