@@ -99,6 +99,11 @@ img.USDApic {
       grid-area: CUSP;
       background-color: blanchedalmond;
   }
+  /*footer styling*/
+  p {
+    display: flex;
+    justify-content: center;
+  }
   
   @media only screen and (max-width:600){
       .flexContainer {
