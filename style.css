@@ -5,7 +5,20 @@ body {
 .inline-block {
     display: inline-block;
     vertical-align: center;
+    justify-content: center;
+    align-content: center;
     padding: 12px;
+    margin: auto;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+p {
+    display: flex;
+    text-align: center;
     margin: auto;
 }
 .mySkills {
